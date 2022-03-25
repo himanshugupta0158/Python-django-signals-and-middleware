@@ -1,5 +1,5 @@
 # Python-django-signals-and-middleware
-- This POC contains Both middleware ,settings and signals demonstration in django.
+- This POC contains Both middleware ,settings and signals Notes/information in django.
 - There is a file name **Django_signals_notes.ipynb** which contains all notes about django settings, middleware and signals.
 - Make sure that you have putted *yourapp_name.apps.yourapp_nameConfig* in installed app.
 - If yor using signals put below in your very *YourAppConfig* class as its method.
